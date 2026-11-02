@@ -1,8 +1,8 @@
-# MNK's AutoFarm [BASIC]
+# Mnks's AutoFarm [BASIC]
 
 Roblox için hafif, şık arayüzlü bir **konum kaydetme, ışınlanma ve otomatik farm** scripti. Kayıtlı noktalara tek tıkla ışınlanabilir, belirlediğin aralıkla otomatik teleport yapabilir, oyuncuları listeleyip yanlarına gidebilirsin.
 
-> Instagram: `mn.k006` • Discord: `findhost`
+>  • Discord: `findhost`
 
 ---
 
@@ -89,4 +89,4 @@ Bu proje yalnızca eğitim amaçlıdır. Üçüncü taraf scriptlerin kullanım�
 ## Krediler
 
 **Created by MNK's**
-Instagram: [`mn.k006`](https://instagram.com/mn.k006) • Discord: `findhost`
+ • Discord: `findhost`
