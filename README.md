@@ -45,7 +45,7 @@ Roblox için hafif, şık arayüzlü bir **konum kaydetme, ışınlanma ve otoma
 
 ```lua
 -- Repo'ya yükledikten sonra kendi linkinle değiştir
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KULLANICI_ADI/REPO_ADI/main/autofarm.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/travmative/autofarm/refs/heads/main/mnkstp.lua"))()
 ```
 
 ---
